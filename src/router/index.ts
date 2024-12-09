@@ -4,7 +4,9 @@ import Particle from '@/views/Particle.vue'
 
 const routes: Array<RouteRecordRaw> = [
   { path: '/', component: GetStarted },
-  { path: '/1', component: Particle }
+  { path: '/1', component: Particle },
+  { path: '/s-1', component: () => import('@/views/Shader-1.vue') },
+  { path: '/s-2', component: () => import('@/views/Shader-2.vue') },
 ]
 
 const router = createRouter({
