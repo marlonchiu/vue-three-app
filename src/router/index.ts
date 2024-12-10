@@ -9,6 +9,7 @@ const routes: Array<RouteRecordRaw> = [
   { path: '/s-2', component: () => import('@/views/Shader-2.vue') },
   { path: '/s-3', component: () => import('@/views/Shader-3.vue') },
   { path: '/s-4', component: () => import('@/views/Shader-4.vue') },
+  { path: '/s-5', component: () => import('@/views/Shader-5.vue') },
 ]
 
 const router = createRouter({
