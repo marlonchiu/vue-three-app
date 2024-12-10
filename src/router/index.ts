@@ -7,6 +7,7 @@ const routes: Array<RouteRecordRaw> = [
   { path: '/1', component: Particle },
   { path: '/s-1', component: () => import('@/views/Shader-1.vue') },
   { path: '/s-2', component: () => import('@/views/Shader-2.vue') },
+  { path: '/s-3', component: () => import('@/views/Shader-3.vue') },
 ]
 
 const router = createRouter({
