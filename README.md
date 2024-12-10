@@ -6,3 +6,4 @@
 4. [Shader 着色器入门](https://juejin.cn/post/7158032481302609950)
 5. [入门 Three.js Shader 系列（二）](https://juejin.cn/post/7256039179087380535)
 6. [入门 Three.js Shader 系列（三）](https://juejin.cn/post/7259411780375314490)
+7. [入门 Three.js Shader 系列（四）](https://juejin.cn/post/7303797715393183796)
