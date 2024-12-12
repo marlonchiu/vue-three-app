@@ -8,3 +8,6 @@
 6. [入门 Three.js Shader 系列（三）](https://juejin.cn/post/7259411780375314490)
 7. [入门 Three.js Shader 系列（四）](https://juejin.cn/post/7303797715393183796)
 8. [入门 Three.js Shader 系列（五）](https://juejin.cn/post/7305371899138654235)
+9. [入门 Three.js Shader 系列（六）](https://juejin.cn/post/7314572755696189494)
+
+> [Three.js Shader 系列教程中所有例子（更新中）](https://www.canva.com/design/DAF3ez4Fy8c/_Zzx2w4NGX2doDzBQYhZNg/view)
