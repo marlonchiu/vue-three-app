@@ -10,6 +10,7 @@ const routes: Array<RouteRecordRaw> = [
   { path: '/s-5', component: () => import('@/views/Shader-5.vue') },
   { path: '/s-6', component: () => import('@/views/Shader-6.vue') },
   { path: '/s-7', component: () => import('@/views/Shader-7.vue') },
+  { path: '/s-8', component: () => import('@/views/Shader-8.vue') },
   { path: '/d-1', component: () => import('@/views/Particle.vue') },
 ]
 
