@@ -1,10 +1,8 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import GetStarted from '@/views/GetStarted.vue'
-import Particle from '@/views/Particle.vue'
 
 const routes: Array<RouteRecordRaw> = [
   { path: '/', component: GetStarted },
-  { path: '/1', component: Particle },
   { path: '/s-1', component: () => import('@/views/Shader-1.vue') },
   { path: '/s-2', component: () => import('@/views/Shader-2.vue') },
   { path: '/s-3', component: () => import('@/views/Shader-3.vue') },
@@ -12,6 +10,7 @@ const routes: Array<RouteRecordRaw> = [
   { path: '/s-5', component: () => import('@/views/Shader-5.vue') },
   { path: '/s-6', component: () => import('@/views/Shader-6.vue') },
   { path: '/s-7', component: () => import('@/views/Shader-7.vue') },
+  { path: '/d-1', component: () => import('@/views/Particle.vue') },
 ]
 
 const router = createRouter({
