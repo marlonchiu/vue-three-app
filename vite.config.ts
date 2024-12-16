@@ -13,7 +13,7 @@ export default defineConfig({
   server: {
     host: 'localhost',
     port: 5173,
-    // open: true,
+    open: true,
     hmr: true
   },
   envPrefix: 'VUE'

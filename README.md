@@ -20,4 +20,4 @@
 ## DEMO
 
 1. [手撸一个星系](https://juejin.cn/post/7358704808525971475)
-2. [波纹 bravo](https://juejin.cn/post/7362028633425002546)
+2. [波纹 bravo Pepyaka](https://juejin.cn/post/7362028633425002546)
