@@ -14,6 +14,7 @@ const routes: Array<RouteRecordRaw> = [
   { path: '/d-1', component: () => import('@/views/Particle.vue') },
   { path: '/d-2', component: () => import('@/views/Bravo.vue') },
   { path: '/d-3', component: () => import('@/views/HandDrawn.vue') },
+  { path: '/d-4', component: () => import('@/views/HandDrawn2.vue') },
 ]
 
 const router = createRouter({
