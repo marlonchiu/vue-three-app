@@ -116,7 +116,7 @@ document.body.appendChild(renderer.domElement)
 // Animation
 const clock = new THREE.Clock()
 function animate() {
-  const time = clock.getElapsedTime()
+  let time = clock.getElapsedTime()
   material.uniforms.uTime.value = time
 
   // 旋转

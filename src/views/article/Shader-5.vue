@@ -199,7 +199,7 @@ const mesh = new THREE.Mesh(geometry, material)
 scene.add(mesh)
 
 // Animation
-let time = 0
+// let time = 0
 let clock = new THREE.Clock()
 function animate() {
   // time += 0.05

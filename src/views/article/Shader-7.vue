@@ -4,7 +4,7 @@ import * as THREE from 'three'
 // import GUI from 'https://cdn.jsdelivr.net/npm/lil-gui@0.20/+esm'
 import GUI from 'lil-gui'
 
-import { OrbitControls } from 'https://esm.sh/three/examples/jsm/controls/OrbitControls'
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 
 /**
  * GUI 控制参数

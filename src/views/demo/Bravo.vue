@@ -294,7 +294,7 @@ const sizes = new Float32Array(firefliesCount)
 
 for (let i = 0; i < firefliesCount; i++) {
   const r = Math.random() * 5 + 5
-  positions1[i * 3 + 0] = (Math.random() - 0.5) * r
+  positions1[i * 3] = (Math.random() - 0.5) * r
   positions1[i * 3 + 1] = (Math.random() - 0.5) * r
   positions1[i * 3 + 2] = (Math.random() - 0.5) * r
 

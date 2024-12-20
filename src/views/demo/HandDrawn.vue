@@ -15,7 +15,7 @@ import { onMounted, onUnmounted } from 'vue'
 
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
-import avatarImg from '@/assets/avatar.png'
+// import avatarImg from '@/assets/avatar.png'
 
 let width = window.innerWidth
 let height = window.innerHeight
