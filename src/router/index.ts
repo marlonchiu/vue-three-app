@@ -11,6 +11,7 @@ const routes: Array<RouteRecordRaw> = [
   { path: '/a-6', component: () => import('@/views/article/Shader-6.vue') },
   { path: '/a-7', component: () => import('@/views/article/Shader-7.vue') },
   { path: '/a-8', component: () => import('@/views/article/Shader-8.vue') },
+  { path: '/a-9', component: () => import('@/views/article/Shader-9.vue') },
   { path: '/d-1', component: () => import('@/views/demo/Particle.vue') },
   { path: '/d-2', component: () => import('@/views/demo/Bravo.vue') },
   { path: '/d-3', component: () => import('@/views/demo/HandDrawn.vue') },
